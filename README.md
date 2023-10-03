@@ -15,6 +15,9 @@ Buatlah dengan spesifikasi aplikasi  sebagai berikut :
 
 1. Pengisian catatan dilakukan dengan menggunakan DIalog dengan tampilan sebagai berikut.(20 Point)
 
-2. Aplikasi menampilkan catatan dengan RecycleView dengan tampilan seperti berikut(10 Point)
+![alt](https://github.com/UKDW-PemrogAndroid/Tugas5RecycleViewDanSharedPreferences/blob/main/Capture62.PNG)
 
-3. Data catatan tersimpan dalam SharedPreferences (20 Point)
+3. Aplikasi menampilkan catatan dengan RecycleView dengan tampilan seperti berikut(10 Point)
+
+![alt](https://github.com/UKDW-PemrogAndroid/Tugas5RecycleViewDanSharedPreferences/blob/main/Capture61.PNG)
+4. Data catatan tersimpan dalam SharedPreferences (20 Point)
