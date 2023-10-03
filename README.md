@@ -20,4 +20,5 @@ Buatlah dengan spesifikasi aplikasi  sebagai berikut :
 3. Aplikasi menampilkan catatan dengan RecycleView dengan tampilan seperti berikut(10 Point)
 
 ![alt](https://github.com/UKDW-PemrogAndroid/Tugas5RecycleViewDanSharedPreferences/blob/main/Capture61.PNG)
+
 4. Data catatan tersimpan dalam SharedPreferences (20 Point)
